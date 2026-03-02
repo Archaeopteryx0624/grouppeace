@@ -39,7 +39,7 @@ Will update soon
 ## Local Development
 
 ```bash
-git clone https://github.com/yourusername/group-peace
+git clone https://github.com/Archaeopteryx0624/grouppeace
 cd group-peace
 npm install
 GROUPPACE_JWT_SECRET=dev-secret node server.js
